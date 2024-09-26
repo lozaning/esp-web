@@ -6,7 +6,7 @@
       "improv": false,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "partitions.bin", "offset": 32768 },
+        { "path": "partition-table.bin", "offset": 32768 },
         { "path": "ble_ctf.bin", "offset": 65536 }
       ]
     }
